@@ -2,10 +2,11 @@ MyToDoList
 ==========
 
 目前这学期的规划
-==========
+======
 1. linux 高性能网络编程，看完(web服务器，负载均衡器)
 2. 高性能网络的相关资料，无所不用其极
 3. diff & merge的项目
+
 
 
 list the tasks i am going to do...
@@ -31,3 +32,4 @@ MyBookList
 10. Inside the C++ Object Model （在读...）
 11. 深入理解Linux内核 （待读...)
 12. STL源码剖析 (待重读...)----好的书每次读都会有不一样的收获
+13. linux高性能网络编程 （在读...）
