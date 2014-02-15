@@ -1,6 +1,13 @@
 MyToDoList
 ==========
 
+目前这学期的规划
+==========
+1. linux 高性能网络编程，看完(web服务器，负载均衡器)
+2. 高性能网络的相关资料，无所不用其极
+3. diff & merge的项目
+
+
 list the tasks i am going to do...
 
 1. a simple http server: non-blocking I/O + I/O multiplexing ( per thread)----C10K Problem
